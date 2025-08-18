@@ -1,0 +1,6 @@
+logs/
+output/
+*.log
+*.tar.gz
+*.bak
+*.swp

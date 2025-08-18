@@ -1,0 +1,4 @@
+username,full_name,groups,shell
+alice,Alice Johnson,developers,sudo,/bin/bash
+bob,Bob Kumar,developers,/bin/zsh
+carol,Carol Singh,,/bin/bash
