@@ -14,14 +14,14 @@ Shows real admin tasks: user management, scripting, cron, logs, documentation, G
 ## Project Structure
 /opt/linux-admin-automation
 ├── data/
-│ └── users.csv
+│   └── users.csv
 ├── logs/
 ├── output/
 ├── scripts/
-│ ├── user_bulk_create.sh
-│ ├── user_delete.sh
-│ ├── user_reset_password.sh
-│ └── process_monitor.sh
+│   ├── user_bulk_create.sh
+│   ├── user_delete.sh
+│   ├── user_reset_password.sh
+│   └── process_monitor.sh
 └── README.md
 
 ## Quick Start
