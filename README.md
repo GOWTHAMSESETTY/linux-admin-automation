@@ -12,6 +12,7 @@ A mini project for freshers to demonstrate Linux system administration skills:
 Shows real admin tasks: user management, scripting, cron, logs, documentation, Git.
 
 ## Project Structure
+```
 /opt/linux-admin-automation
 ├── data/
 │   └── users.csv
@@ -23,7 +24,7 @@ Shows real admin tasks: user management, scripting, cron, logs, documentation, G
 │   ├── user_reset_password.sh
 │   └── process_monitor.sh
 └── README.md
-
+```
 ## Quick Start
 ```bash
 # Run bulk user creation
