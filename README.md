@@ -1,6 +1,6 @@
 # Linux Admin Automation (Debian)
 
-A mini project for freshers to demonstrate Linux system administration skills:
+A hands-on project designed for beginners and freshers to practice and demonstrate essential Linux system administration skills, including:
 
 - Bulk user creation from CSV
 - Secure random passwords (forced change on first login)
@@ -9,7 +9,7 @@ A mini project for freshers to demonstrate Linux system administration skills:
 - Logging and log rotation
 
 ## Why this project?
-Shows real admin tasks: user management, scripting, cron, logs, documentation, Git.
+This project simulates real-world admin tasks such as user management, scripting, cron jobs, log handling, documentation, and Git usage. It helps freshers build practical experience and showcase their skills to potential employers.
 
 ## Project Structure
 ```
